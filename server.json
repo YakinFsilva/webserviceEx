@@ -1,0 +1,144 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397204.png&w=350&h=254",
+      "name": "Colin Castleton",
+      "age": 23,
+      "height": 2.08
+    },
+    {
+      "id": "2",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432582.png&w=350&h=254",
+      "name": "Max Christie",
+      "age": 20,
+      "height": 1.96
+    },
+    {
+      "id": "3",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6583.png&w=350&h=254",
+      "name": "Anthony Davis",
+      "age": 30,
+      "height": 2.08
+    },
+    {
+      "id": "4",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4896481.png&w=350&h=254",
+      "name": "Alex Fudge",
+      "age": 20,
+      "height": 2.03
+    },
+    {
+      "id": "5",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066648.png&w=350&h=254",
+      "name": "Rui Hachimura",
+      "age": 25,
+      "height": 2.03
+    },
+    {
+      "id": "6",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5105797.png&w=350&h=254",
+      "name": "Jaxson Hayes",
+      "age": 23,
+      "height": 2.13
+    },
+    {
+      "id": "7",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4702702.png&w=350&h=254",
+      "name": "D'Moi Hodge",
+      "age": 25,
+      "height": 1.91
+    },
+    {
+      "id": "8",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5105797.png&w=350&h=254",
+      "name": "Jalen Hood-Schifino",
+      "age": 20,
+      "height": 1.96
+    },
+    {
+      "id": "9",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png&w=350&h=254",
+      "name": "LeBron James",
+      "age": 39,
+      "height": 2.06
+    },
+    {
+      "id": "10",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4684286.png&w=350&h=254",
+      "name": "Maxwell Lewis",
+      "age": 21,
+      "height": 2.01
+    },
+    {
+      "id": "11",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066269.png&w=350&h=254",
+      "name": "Skylar Mays",
+      "age": 26,
+      "height": 1.91
+    },
+    {
+      "id": "12",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2990962.png&w=350&h=254",
+      "name": "Taurean Prince",
+      "age": 29,
+      "height": 1.98
+    },
+    {
+      "id": "13",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066457.png&w=350&h=254",
+      "name": "Austin Reaves",
+      "age": 25,
+      "height": 1.96
+    },
+    {
+      "id": "14",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4395627.png&w=350&h=254",
+      "name": "Cam Reddish",
+      "age": 24,
+      "height": 2.01
+    },
+    {
+      "id": "15",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136776.png&w=350&h=254",
+      "name": "D'Angelo Russell",
+      "age": 27,
+      "height": 1.91
+    },
+    {
+      "id": "16",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278077.png&w=350&h=254",
+      "name": "Jarred Vanderbilt",
+      "age": 24,
+      "height": 2.03
+    },
+    {
+      "id": "17",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3137259.png&w=350&h=254",
+      "name": "Gabe Vincent",
+      "age": 27,
+      "height": 1.88
+    },
+    {
+      "id": "18",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3906786.png&w=350&h=254",
+      "name": "Dylan Windler",
+      "age": 27,
+      "height": 2.01
+    },
+    {
+      "id": "19",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3058254.png&w=350&h=254",
+      "name": "Christian Wood",
+      "age": 28,
+      "height": 2.03
+    },
+    {
+      "id": "a36c",
+      "image": "https://f.i.uol.com.br/fotografia/2023/11/28/17011813936565f7d188270_1701181393_3x2_md.jpg",
+      "name": "Lebron James 2",
+      "age": "39",
+      "height": "2.06"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+.img-header {
+  width: 25%;
+}
+
+.content {
+  background-color: #999;
+}
+
+.header {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  text-align: center;
+  padding-left: 10%;
+  font-size: 2.8rem;
+}
+
+.players {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 3.5rem;
+  list-style-type: none;
+  width: 15%;
+}
+
+li {
+  border: 1px solid;
+  border-radius: 7px;
+  height: 25rem;
+  background-color: #fff;
+}
+
+.players p {
+  text-align: center;
+  font-size: 16px;
+  padding: 2px;
+}
+
+.btn,
+button {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+button {
+  border-radius: 5px;
+  border: 1px solid #999;
+}
+
+.btn-add button {
+  padding: 1rem;
+  font-size: 24px;
+}
+
+.btn-add {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
